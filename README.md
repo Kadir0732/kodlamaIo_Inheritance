@@ -1,0 +1,1 @@
+# kodlamaIo_Inheritance
